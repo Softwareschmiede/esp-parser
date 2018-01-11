@@ -1,6 +1,6 @@
 {
   "name": "esp-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parses EnOcean Radio Protocol telegram buffers to EnOcean Serial Protocol packets.",
   "main": "index.js",
   "scripts": {
